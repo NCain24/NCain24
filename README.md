@@ -12,7 +12,6 @@
  </ul>
  <h2>Current Course:<a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project</a></h2>
 
-<p>I am looking to collaborate on projects that will benefit the greater community, big or small.</p>
 <p>Feel free to send me a message!</p>
 <a href="www.linkedin.com/in/noah-cain-5b37a2228">LinkedIn</a>
 <a href="https://twitter.com/NoahCain1990">Twitter</a>
