@@ -7,8 +7,11 @@
 <ul>
   <li>HTML5</li>
   <li>CSS3</li> 
-  <li>Responsive Design</li>
   <li>Javascript(ES5/ES6)</li>
+  <li>Webpack</li>
+  <li>React</li>
+  <li>Node.JS</li>
+  <li>Express</li>
  </ul>
  <h2>Current Course:<a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project</a></h2>
 
